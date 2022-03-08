@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# skills
+
+below is a _list_ of my **skills**:
+## programing 
+- ruby
+- c++
+- c-
+- ## collabration
+- -gethub
